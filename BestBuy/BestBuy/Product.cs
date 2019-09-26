@@ -11,9 +11,10 @@ namespace BestBuy
 
         }
 
-        public double PriceWithTax()
+        public double PriceWithTax(double price)
         {
-            return Price * 1.1;
+            Price = price;
+            return price * 1.1;
         }
     }
 }
