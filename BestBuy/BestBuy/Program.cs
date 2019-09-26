@@ -13,7 +13,7 @@ namespace BestBuy
 
             double pricetax =  cork.PriceWithTax();
 
-            Console.WriteLine(cork.Price + " "+ cork.Name + pricetax);
+            Console.WriteLine("Base price: " + cork.Price + " Name: " + cork.Name + "Price with tax: " + pricetax);
         }
         
     }
