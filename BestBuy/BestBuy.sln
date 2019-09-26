@@ -1,0 +1,23 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestBuy", "BestBuy\BestBuy.csproj", "{CD181F6B-96FE-4634-86AB-76FA7C7C3E4C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BestBuyTests", "BestBuyTests\BestBuyTests.csproj", "{FF12D48E-716D-4CF1-8BBC-6A79B31EFBAF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CD181F6B-96FE-4634-86AB-76FA7C7C3E4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD181F6B-96FE-4634-86AB-76FA7C7C3E4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD181F6B-96FE-4634-86AB-76FA7C7C3E4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD181F6B-96FE-4634-86AB-76FA7C7C3E4C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FF12D48E-716D-4CF1-8BBC-6A79B31EFBAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FF12D48E-716D-4CF1-8BBC-6A79B31EFBAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FF12D48E-716D-4CF1-8BBC-6A79B31EFBAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FF12D48E-716D-4CF1-8BBC-6A79B31EFBAF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
